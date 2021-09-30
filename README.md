@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnthonyLUL
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning html
+- 👀 I’m interested in bruh saying
+- 🌱 I’m currently learning deez
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me @anthony
 
