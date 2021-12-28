@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AnthonyLUL
-- 👀 I’m interested in bruh saying
-- 🌱 I’m currently learning deez
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me @anthony
+- 👀 I’m interested in anti bruh saying
+- 🌱 I’m currently learning Dee
+- 💞️ I’m looking to collaborate on no bruh saying bot
 
 <!---
 AnthonyLUL/AnthonyLUL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
