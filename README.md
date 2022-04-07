@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnthonyLUL
+- 👋 Hi, I’m Anthony
 - 👀 I’m interested in anti bruh saying
 - 🌱 I’m currently learning Dee
 - 💞️ I’m looking to collaborate on no bruh saying bot
